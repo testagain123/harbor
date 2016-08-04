@@ -1,6 +1,6 @@
 # Harbor
 
-[![Build Status](https://travis-ci.org/vmware/harbor.svg?branch=master)](https://travis-ci.org/vmware/harbor)
+[![Build Status](https://travis-ci.org/vmware/harbor.svg?branch=master)](https://travis-ci.org/testagain123/harbor)
 [![Coverage Status](https://coveralls.io/repos/github/testagain123/harbor/badge.svg?branch=master)](https://coveralls.io/github/testagain123/harbor?branch=master)
 
 ![alg tag](https://cloud.githubusercontent.com/assets/2390463/13484557/088a1000-e13a-11e5-87d4-a64366365bef.png)
